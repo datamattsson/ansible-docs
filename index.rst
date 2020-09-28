@@ -11,7 +11,7 @@ The HPE Nimble Storage Content Collection for Ansible is a set of Ansible module
 Source code is available on `GitHub <https://github.com/hpe-storage/nimble-ansible-modules>`_.
 
 .. warning::
-   This documentation is placeholder until the `Collection Index <https://docs.ansible.com/ansible/latest/collections/index.html>`_ has been updated on docs.ansible.com.
+   This documentation is a placeholder until the `Collection Index <https://docs.ansible.com/ansible/latest/collections/index.html>`_ has been updated on docs.ansible.com.
 
 .. toctree::
    :maxdepth: 1
