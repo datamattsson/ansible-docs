@@ -26,7 +26,7 @@ author = u'HPE Nimble Storage Ansible Team'
 # The short X.Y version
 version = u'1.0.0'
 # The full version, including alpha/beta/rc tags
-release = u'GA'
+release = u'1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
